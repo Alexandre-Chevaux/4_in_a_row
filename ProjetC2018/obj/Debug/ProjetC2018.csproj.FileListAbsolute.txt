@@ -1,0 +1,7 @@
+C:\Users\Alexandre\source\repos\ProjetC2018\ProjetC2018\bin\Debug\ProjetC2018.exe.config
+C:\Users\Alexandre\source\repos\ProjetC2018\ProjetC2018\bin\Debug\ProjetC2018.exe
+C:\Users\Alexandre\source\repos\ProjetC2018\ProjetC2018\bin\Debug\ProjetC2018.pdb
+C:\Users\Alexandre\source\repos\ProjetC2018\ProjetC2018\obj\Debug\ProjetC2018.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\source\repos\ProjetC2018\ProjetC2018\obj\Debug\ProjetC2018.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\ProjetC2018\ProjetC2018\obj\Debug\ProjetC2018.exe
+C:\Users\Alexandre\source\repos\ProjetC2018\ProjetC2018\obj\Debug\ProjetC2018.pdb
